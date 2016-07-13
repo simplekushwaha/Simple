@@ -1,0 +1,13 @@
+{
+  "appname": "Simple",
+  "ocscope": "",
+  "clientid": "056B8296-383B-411F-87BC-ECBBAE84D0AE",
+  "buyerid": "1",
+  "environment": "prod",
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
